@@ -112,7 +112,7 @@ removeP.addEventListener('click', () =>{
 
 const anotherPage = document.getElementById("question");
 anotherPage.addEventListener(('click'), () => {
-    window.location.href = "./question.html";
+    window.location.href = "question.html";
 });
 
 
