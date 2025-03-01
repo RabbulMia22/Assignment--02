@@ -66,12 +66,12 @@ function dateTime(){
 console.log(dateTime());
 
 const tasks = {
-    1: 'Add Dark Mode',
-    2: 'Add Light Mode',
-    3: 'Add Random Color',
-    4: 'Add Task Counter',
-    5: 'Add Complete Task Counter',
-    6: 'Add Remain Task Counter'
+    1: 'Fix Mobile Button Issue ',
+    2: 'Add Dark Mode',
+    3: 'Optimize  Home page ',
+    4: 'Add new emoji 🤲',
+    5: 'Integrate OpenAI API ',
+    6: 'Improve Job searching'
 };
 console.log(tasks[1]);
 
